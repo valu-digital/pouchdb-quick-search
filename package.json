@@ -42,7 +42,8 @@
     "pouchdb-extend": "^0.1.0",
     "pouchdb-mapreduce-no-ddocs": "^2.3.2",
     "pouchdb-promise": "5.4.4",
-    "uniq": "^1.0.1"
+    "uniq": "^1.0.1",
+    "react-native-crypto": "^3.11.0"
   },
   "devDependencies": {
     "bluebird": "^1.0.7",
